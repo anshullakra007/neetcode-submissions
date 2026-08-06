@@ -75,14 +75,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 
 ## Why I built this ?
 
-**Situation:** 
-While building modern software applications, developing structured and scalable solutions is critical. The requirement was to build and maintain `neetcode-submissions` to address specific technical challenges and provide a robust implementation.
-
-**Task:** 
-My goal was to engineer a reliable and efficient solution for `neetcode-submissions`, ensuring clean architecture, maintainability, and alignment with project objectives (My NeetCode.io problem submissions).
-
-**Action:** 
-I designed and implemented the core logic and project architecture, focusing on best practices in code organization and system design. I systematically tackled the problem by breaking down the requirements, writing modular code, and integrating necessary dependencies to bring the repository to life.
-
-**Result:** 
-The project successfully fulfilled its core requirements, serving as a functional codebase. It demonstrates a clear understanding of software engineering principles and provides a solid foundation for future scaling and feature additions.
+**Situation:** Structured algorithmic mastery requires following curated lists like NeetCode 150, but standardizing and reviewing these solutions is often neglected.
+**Task:** I needed to systematically solve and document the most critical algorithmic patterns required for top-tier software engineering roles.
+**Action:** I worked through complex patterns (Sliding Window, Backtracking, 2D Dynamic Programming) and committed highly readable, optimized solutions. I focused specifically on writing modular helper functions and avoiding deep nesting to ensure the algorithms were as readable as production code.
+**Result:** A pristine collection of the industry's hardest algorithmic patterns, proving my capability to quickly identify optimal mathematical and structural approaches to novel logic problems.
