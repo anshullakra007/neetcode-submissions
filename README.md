@@ -6,16 +6,16 @@
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync**feature.
 
 ---
 
 ## How GitHub Sync works
 
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+1.**Connect your GitHub account**on [neetcode.io/profile/github](https://neetcode.io/profile/github).
+2.**Auto-commit**— every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
+3.**Bulk Sync**— push all your past solutions at once from the GitHub settings page.
+4.**Manual sync**— from the submission history panel on any problem page, sync or remove individual submissions.
 
 ---
 
@@ -29,10 +29,7 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
     submission-0.<ext>   ← first submission
     submission-1.<ext>   ← second submission
     ...
-```
-
-**Example:**
-```
+```**Example:**```
 Data Structures & Algorithms/two-integer-sum/submission-0.py
 Data Structures & Algorithms/binary-search/submission-0.ts
 Python For Beginners/python-hello-world/submission-0.py
@@ -62,10 +59,10 @@ Python For Beginners/python-hello-world/submission-0.py
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
+-**Auto-commit toggle**— enable or disable automatic commits on submission
+-**Status filter**— sync all submissions or accepted only
+-**Rename repository**— rename this repo or start fresh with a new one
+-**Bulk Sync** — push all past solutions at once (rate-limited)
 
 ---
 
@@ -75,7 +72,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 
 ## Why I built this ?
 
-**Situation:** Structured algorithmic mastery requires following curated lists like NeetCode 150, but standardizing and reviewing these solutions is often neglected.
-**Task:** I needed to systematically solve and document the most critical algorithmic patterns required for top-tier software engineering roles.
-**Action:** I worked through complex patterns (Sliding Window, Backtracking, 2D Dynamic Programming) and committed highly readable, optimized solutions. I focused specifically on writing modular helper functions and avoiding deep nesting to ensure the algorithms were as readable as production code.
-**Result:** A pristine collection of the industry's hardest algorithmic patterns, proving my capability to quickly identify optimal mathematical and structural approaches to novel logic problems.
+### Situation
+Structured algorithmic mastery requires following curated lists like NeetCode 150, but standardizing and reviewing these solutions is often neglected.
+
+### Task
+I needed to systematically solve and document the most critical algorithmic patterns required for top-tier software engineering roles.
+
+### Action
+I worked through complex patterns (Sliding Window, Backtracking, 2D Dynamic Programming) and committed highly readable, optimized solutions. I focused specifically on writing modular helper functions and avoiding deep nesting to ensure the algorithms were as readable as production code.
+
+### Result
+A pristine collection of the industry's hardest algorithmic patterns, proving my capability to quickly identify optimal mathematical and structural approaches to novel logic problems.
