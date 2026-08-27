@@ -1,4 +1,4 @@
-# NeetCode Solutions — @anshullakra007 🚀
+# NeetCode Solutions — @anshullakra007 
 
 ---
 
